@@ -23,9 +23,6 @@ Ideal for creating and presenting training concepts directly on the device.
 
 📸📱 Screenshots
 
-<img src="https://github.com/p-7on/Taktikfuchs_AndroidApp/blob/58490f22652b8d4eace08e36146327993c901f3d/screenshots/overview.png?raw=true" width="250" /> 
-<img src="https://github.com/p-7on/Taktikfuchs_AndroidApp/blob/58490f22652b8d4eace08e36146327993c901f3d/screenshots/add_new.png?raw=true" width="250" /> 
-<img src="https://github.com/p-7on/Taktikfuchs_AndroidApp/blob/58490f22652b8d4eace08e36146327993c901f3d/screenshots/full_field.png?raw=true" width="250" /> 
+<img src="https://github.com/p-7on/Taktikfuchs_AndroidApp/blob/58490f22652b8d4eace08e36146327993c901f3d/screenshots/overview.png?raw=true" width="250" />  <img src="https://github.com/p-7on/Taktikfuchs_AndroidApp/blob/58490f22652b8d4eace08e36146327993c901f3d/screenshots/add_new.png?raw=true" width="250" />  <img src="https://github.com/p-7on/Taktikfuchs_AndroidApp/blob/58490f22652b8d4eace08e36146327993c901f3d/screenshots/full_field.png?raw=true" width="250" /> 
 
-<img src="https://github.com/p-7on/Taktikfuchs_AndroidApp/blob/58490f22652b8d4eace08e36146327993c901f3d/screenshots/penaltyarea.png?raw=true" width="250" />
-<img src="https://github.com/p-7on/Taktikfuchs_AndroidApp/blob/58490f22652b8d4eace08e36146327993c901f3d/screenshots/free_area.png?raw=true" width="250" />
+<img src="https://github.com/p-7on/Taktikfuchs_AndroidApp/blob/58490f22652b8d4eace08e36146327993c901f3d/screenshots/penaltyarea.png?raw=true" width="250" /> <img src="https://github.com/p-7on/Taktikfuchs_AndroidApp/blob/58490f22652b8d4eace08e36146327993c901f3d/screenshots/free_area.png?raw=true" width="250" />
