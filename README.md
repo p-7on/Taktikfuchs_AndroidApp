@@ -1,4 +1,4 @@
-Taktikfuchs App
+**Taktikfuchs App**
 
 A football tactics board app that allows coaches and players to visually explain plays, formations, and tactical movements.
 Ideal for creating and presenting training concepts directly on the device.
